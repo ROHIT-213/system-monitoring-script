@@ -5,19 +5,19 @@ This project demonstrates a basic system monitoring automation script written in
 
 📌 2. Features
 
-Disk usage monitoring
-Memory usage monitoring
-CPU usage monitoring
-Threshold-based alert system
-Logging to monitor.log
-Display of top 5 CPU consuming processes
-Display of top 5 memory consuming processes
+Disk usage monitoring,
+Memory usage monitoring,
+CPU usage monitoring,
+Threshold-based alert system,
+Logging to monitor.log,
+Display of top 5 CPU consuming processes,
+Display of top 5 memory consuming processes.
 
 📌 3. Threshold Configuration
 
-Disk_Threshold=80
-Mem_Threshold=75
-CPU_Threshold=80
+Disk_Threshold=80,
+Mem_Threshold=75,
+CPU_Threshold=80.
 
 📌 4. How to Run
 
